@@ -40,6 +40,11 @@ p {
     word-wrap: keep-all;
 }
 
+.btn-primary {
+    background-color: #F9FFB8;
+    color: black;
+}
+
 footer {
     position: fixed;
     left: 0;
