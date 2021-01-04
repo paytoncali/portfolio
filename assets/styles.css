@@ -70,7 +70,7 @@ footer {
     margin-top: 20px;
 }
 
-@media screen and (max-width 575.98) {
+/* @media screen and (max-width 900px) {
     .content,
     .footer {
         width: 400px;
@@ -88,6 +88,6 @@ footer {
         width: 150px;
         height: 150px;
     }
-}
+} */
 
 
