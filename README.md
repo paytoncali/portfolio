@@ -10,6 +10,10 @@ Once the bones of my page were set, I then began to style my page. I changed the
 
 This project will be used to showcase my abilities as a web developer to perspective employers.
 
+![screencapture-file-Users-paytoncali-Documents-portfolio-index-html-2021-01-04-16_58_03](https://user-images.githubusercontent.com/74576982/103588180-3ecf9680-4eae-11eb-85ca-af64249535f0.png)
+![screencapture-file-Users-paytoncali-Documents-portfolio-portfolio-html-2021-01-04-16_58_16](https://user-images.githubusercontent.com/74576982/103588184-4000c380-4eae-11eb-9a9a-1186d543d39b.png)
+![screencapture-file-Users-paytoncali-Documents-portfolio-contact-html-2021-01-04-16_58_27](https://user-images.githubusercontent.com/74576982/103588187-40995a00-4eae-11eb-8d60-5fbd6b59e60f.png)
+
 ## Credits
 
 Bootstrap and Google Fonts were used in this project.
