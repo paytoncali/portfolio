@@ -70,15 +70,19 @@ footer {
     margin-top: 20px;
 }
 
-@media screen and (max-width 991.98) {
-    .content {
-        width: 100%;
+@media screen and (max-width 575.98) {
+    .content,
+    .footer {
+        width: 400px;
+    }
+
+    .content, {
+        margin:0;
+    }
+    .about-me-img {
+        width: 150px;
+        height: 150px;
     }
 }
 
-@media screen and (max-width 575.98) {
-    .content {
-        width: 100%;
-    }
-}
 
