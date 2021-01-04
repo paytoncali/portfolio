@@ -72,7 +72,7 @@ footer {
 
 @media screen and (max-width 991.98) {
     .content {
-        width: 750px;
+        width: 100%;
     }
 }
 
