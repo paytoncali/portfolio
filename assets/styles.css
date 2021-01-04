@@ -15,9 +15,9 @@ nav {
     font-size: 30px;
 }
 
-content {
+.content {
     background-color: rgba(212, 211, 209, 0.7);
-    width: auto;
+    width: 1024px;
     max-width: 55%;
     display: inline-block;
     margin-left: 20px;
@@ -27,7 +27,7 @@ content {
     padding: 30px;
 }
 
-.contact-content {
+#contact-content {
     min-width: 55%;
 }
 
@@ -70,20 +70,14 @@ footer {
     margin-top: 20px;
 }
 
-@media screen and (max-width 1199.98) {
-    .wrapper {
-        width: 1000px;
-    }
-}
-
 @media screen and (max-width 991.98) {
-    .wrapper {
+    .content {
         width: 750px;
     }
 }
 
 @media screen and (max-width 575.98) {
-    .wrapper {
+    .content {
         width: 100%;
     }
 }
