@@ -1,12 +1,16 @@
 const button1Src = "https://paytoncali.github.io/Code-Quiz/";
 const button2Src = "https://damiandeleon.github.io/vacation_planner/";
 const button3Src = "https://paytoncali.github.io/weather-app/";
+const button4Src = "https://arcane-harbor-21800.herokuapp.com/";
 const github1 = "https://github.com/paytoncali/Code-Quiz.git";
 const github2 = "https://github.com/damiandeleon/vacation_planner.git";
 const github3 = "https://github.com/paytoncali/weather-app.git"
+const github4 = "https://github.com/caroline-e-miller/project-2.git";
+
 const buttonEl1 = document.querySelector("#homework1");
 const buttonEl2 = document.querySelector("#homework2");
 const buttonEl3 = document.querySelector("#homework3");
+const buttonEl4 = document.querySelector("#homework4");
 
 const a1 = document.createElement('a');
 a1.style = "margin: 15px";
@@ -38,4 +42,12 @@ a3Git.innerHTML = "GitHub Repo";
 buttonEl3.append(a3);
 buttonEl3.append(a3Git);
 
-
+const a4 = document.createElement('a');
+a4.style = "margin: 15px";
+const a4Git = document.createElement('a');
+a4.setAttribute("href", button4Src);
+a4Git.setAttribute("href", github4)
+a4.innerHTML = "WazeDaze";
+a4Git.innerHTML = "GitHub Repo";
+buttonEl4.append(a4);
+buttonEl4.append(a4Git);
